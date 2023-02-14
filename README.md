@@ -1,5 +1,5 @@
-#Dépot pour le cours réseau-sans-fil et iot
-##Application sur Sockets
+#Dépot pour le cours réseau-sans-fil et iot:
+##Application sur Sockets:
 ###Application client-serveur:
 	-Le serveur crée un socket en écoutant sur un port donné.
 	-Le client crée un socket et se connecte au serveur en utilisant l'adresse IP et le port du serveur.
